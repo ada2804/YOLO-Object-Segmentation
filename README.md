@@ -117,7 +117,7 @@ They are not tracked in the repository and should not be added to version contro
 
 - [YOLOv3 Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - [Darknet YOLO Website](https://pjreddie.com/darknet/yolo/)
-- [COCO Dataset](https://cocodataset.org/)
+- [YOLOv3 cfg weights and coco.names](https://www.kaggle.com/datasets/valentynsichkar/yolo-coco-data?select=coco.names)
 
 ---
 
