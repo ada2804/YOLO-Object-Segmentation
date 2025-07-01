@@ -68,12 +68,8 @@ Below is an example of detection results produced by this project:
  > The YOLOv3 weights and config files are **not included** in this repository due to their size.  
  > **You must download them separately.**
 
- - **yolov3.cfg** (network architecture):  
-   [Download yolov3.cfg](https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg)
- - **yolov3.weights** (pre-trained weights):  
-   [Download yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
- - **coco.names** (class labels):  
-   [Download coco.names](https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names)
+ - Kaggle link for downloading the YOLO model along with coco.names file:  
+   [Download yolov3.cfg, yolov3.weights, coco.names](https://www.kaggle.com/datasets/valentynsichkar/yolo-coco-data?select=coco.names)
 
  Place these files in a directory (e.g., `yolo/`).
 
